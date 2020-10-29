@@ -13,7 +13,8 @@ I've been in the service industry for 10+ years starting at a <img width="15" al
 
 - <img width="25" alt="Screen Shot 2020-10-27 at 11 06 31 PM" src="https://user-images.githubusercontent.com/68249276/97389729-107b7c80-18a9-11eb-9151-7bba46a959ab.png"> I’m currently learning: Python :snake:, a little HTML and Tableau :bar_chart: 
 - :book:  I'm currently reading: Edward Tufte's *The Visual Display of Quantitative Information*
-- 💬  Ask me about : <img width="15" alt="Screen Shot 2020-10-27 at 10 23 10 PM" src="https://user-images.githubusercontent.com/68249276/97386973-0b1b3380-18a3-11eb-8b07-2ce82aa16f69.png">, :rowboat:, :dog:, :meat_on_bone:  & :wine_glass: 
+- 💬  Ask me about : <img width="15" alt="Screen Shot 2020-10-27 at 10 23 10 PM" src="https://user-images.githubusercontent.com/68249276/97386973-0b1b3380-18a3-11eb-8b07-2ce82aa16f69.png">, <img width="25" alt="Screen Shot 2020-10-28 at 9 44 30 PM" src="https://user-images.githubusercontent.com/68249276/97519188-d375bf80-1966-11eb-80df-e8065cce11c5.png">
+, :dog:, :meat_on_bone:  & :wine_glass: 
 - :man:  Pronouns: He/Him 
 - ⚡  Fun fact: I learned how to :swimmer: this year 
 
